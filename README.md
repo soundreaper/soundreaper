@@ -14,12 +14,13 @@ Pronouns: he/him
 
 #### 💪 Things I am challenging myself with:
 - Increasing knowledge of middleware to create better web applications
-- Learning Go and Rust and reimplementing code from Python into these languages
+- Learning Rust and reimplementing code from Python into these languages
 
 #### :computer: Programming Languages and Tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=soundreaper&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=soundreaper&show_icons=true&hide_border=true" />
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
